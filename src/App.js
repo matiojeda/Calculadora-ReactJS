@@ -58,6 +58,8 @@ function App() {
           <button name='=' onClick={resultado} id="igual">=</button>
         </div>
 
+        <p>Prueba</p>
+
       </div>
     </div>
   );
